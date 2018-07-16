@@ -3,6 +3,9 @@ public void main (string arg[])
 int sum=0;
 for (int i=1, i<11;i++)
 if i%2 ==0 
+{
+Console.write(i);
 sum = sum +i;
-Console.Write(sum);
 }
+Console.Write(sum);
+ }
